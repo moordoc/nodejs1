@@ -1,0 +1,8 @@
+{
+ "m_debuggerPort": 5858,
+ "m_debuggerHost": "127.0.0.1",
+ "m_scriptToExecute": "C:\\Users\\Edgar\\Documents\\CodeLite\\NodeJS\\nodejs1\\server.js",
+ "m_commandLineArgs": [],
+ "m_workingDirectory": "C:\\Users\\Edgar\\Documents\\CodeLite\\NodeJS\\nodejs1",
+ "m_breakpoints": []
+}
